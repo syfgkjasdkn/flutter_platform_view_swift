@@ -1,8 +1,1 @@
-# platform_view_swift
-
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+https://github.com/flutter/flutter/tree/master/examples/platform_view translated to swift.
